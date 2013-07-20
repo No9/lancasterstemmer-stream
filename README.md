@@ -5,6 +5,8 @@ Also removes common pithy words such as 'the'
 
 [![build status](https://secure.travis-ci.org/No9/lancasterstemmer-stream.png)](http://travis-ci.org/No9/lancasterstemmer-stream)
 
+[![NPM](https://nodei.co/npm/lancasterstemmer-stream.png)](https://nodei.co/npm/lancasterstemmer-stream/) 
+
 ## Usage
 
 ```
