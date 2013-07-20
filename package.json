@@ -1,0 +1,30 @@
+{
+  "name": "lancasterstemmer-stream",
+  "version": "0.1.0",
+  "description": "A stream that takes text and emits arrays of stemmed text ",
+  "main": "index.js",
+  "scripts": {
+    "test": "node tests/*.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/No9/lancasterstemmer-stream.git"
+  },
+  "keywords": [
+    "natural",
+    "stream",
+    "stem"
+  ],
+  "author": "anton whalley",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/No9/lancasterstemmer-stream/issues"
+  },
+  "dependencies": {
+    "natural": "~0.1.21"
+  },
+  "devDependencies" : {
+        "tape" : "~1.0.4",
+	"through" : "~2.3.4" 
+    }
+}
