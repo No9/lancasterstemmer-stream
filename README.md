@@ -3,6 +3,8 @@
 A stream for taking strings and creating an array of stem words. 
 Also removes common pithy words such as 'the'
 
+[![build status](https://secure.travis-ci.org/No9/lancasterstemmer-stream.png)](http://travis-ci.org/No9/lancasterstemmer-stream)
+
 ## Usage
 
 ```
